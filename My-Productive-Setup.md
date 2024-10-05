@@ -1,7 +1,5 @@
 # My Productive Setup: Neovim, Tmux, and More
 
---- 
-
 As a developer, efficiency and customization are key to building a productive workflow. Over the past year and a half, I’ve refined my setup by switching from VSCode to Neovim, adding powerful tools like Tmux and LazyGit, and adopting a dynamic window manager. Here’s a breakdown of my current workflow and how it’s made me a more efficient developer.
 
 ## The Switch to Neovim
