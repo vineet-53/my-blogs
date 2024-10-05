@@ -28,6 +28,6 @@ I can’t say enough good things about **Hyprland**. Its dynamic tiling and smoo
 Finally, **Zsh** is my terminal of choice, and with a customized `.zshrc`, it enhances every aspect of my workflow. The flexibility and speed of Zsh, combined with Tmux and Neovim, complete my setup. For anyone interested, my `.dotfiles` are available on GitHub.
 
 ## Wrapping It Up
-My productive setup has been a journey of trial and error, but it’s transformed how I work. I’ve drawn inspiration from channels like **The Primeagen**, **TJ Devries**, and countless Neovim and Obsidian videos on YouTube. If you’re looking to optimize your own workflow, I highly recommend checking them out and experimenting with your tools.
+My productive setup has been a journey of trial and error, but it’s transformed how I work. I’ve drawn inspiration from channels like **The Primeagen**, **TJ Devries**, **Typecraft**, and countless Neovim and Obsidian videos on YouTube. If you’re looking to optimize your own workflow, I highly recommend checking them out and experimenting with your tools.
 
 Want to explore my setup in more detail? Check out my dotfiles on [GitHub](https://github.com/vineet-53/.dotfiles).
