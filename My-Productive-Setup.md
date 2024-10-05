@@ -31,3 +31,5 @@ Finally, **Zsh** is my terminal of choice, and with a customized `.zshrc`, it en
 My productive setup has been a journey of trial and error, but it’s transformed how I work. I’ve drawn inspiration from channels like **The Primeagen**, **TJ Devries**, **Typecraft**, and countless Neovim and Obsidian videos on YouTube. If you’re looking to optimize your own workflow, I highly recommend checking them out and experimenting with your tools.
 
 Want to explore my setup in more detail? Check out my dotfiles on [GitHub](https://github.com/vineet-53/.dotfiles).
+
+I’m always looking to improve my workflow, so if you have any suggestions or feedback, I’d really appreciate it! Feel free to open an issue or reach out with your thoughts.
